@@ -1,4 +1,4 @@
-import Rerct, { useRef } from "react";
+import React, { useRef } from "react";
 import styled, { keyframes } from "styled-components";
 
 import img1 from "../../../assets/Nfts/bighead-1.svg";
@@ -99,7 +99,7 @@ const ShowCase = () => {
   const row1 = useRef(null);
   const row2 = useRef(null);
   return (
-    <Section>
+    <Section id="showcase">
       <Row direction="none" ref={row1}>
         <NftItems img={img1} price="0.2" number="33" passRef={row1} />
         <NftItems img={img2} price="0.2" number="33" passRef={row1} />

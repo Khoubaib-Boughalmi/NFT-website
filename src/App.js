@@ -6,6 +6,9 @@ import Home from "./components/section/home/Home";
 import About from "./components/section/about/About";
 import Roadmap from "./components/section/roadmap/Roadmap";
 import ShowCase from "./components/section/showCase/ShowCase";
+import Team from "./components/section/team/Team";
+import Faq from "./components/section/faq/Faq";
+import Footer from "./components/section/footer/Footer";
 function App() {
   return (
     <>
@@ -16,6 +19,9 @@ function App() {
         <About />
         <Roadmap />
         <ShowCase />
+        <Team />
+        <Faq />
+        <Footer />
       </ThemeProvider>
     </>
   );

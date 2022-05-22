@@ -25,14 +25,22 @@ const ListItem = styled.li`
   }
 `;
 const Menu = () => {
+  const scrollToFn = (id) => {
+    let element = document.getElementById(id);
+    element.scrollIntoView({
+      behavior: "smooth",
+      block: "start",
+      inline: "nearest",
+    });
+  };
   return (
     <MenuList>
-      <ListItem>Home</ListItem>
-      <ListItem>About</ListItem>
-      <ListItem>RoadMap</ListItem>
-      <ListItem>Showcase</ListItem>
-      <ListItem>Team</ListItem>
-      <ListItem>FAQ</ListItem>
+      <ListItem onClick={() => scrollToFn("home")}>Home</ListItem>
+      <ListItem onClick={() => scrollToFn("about")}>About</ListItem>
+      <ListItem onClick={() => scrollToFn("roadmap")}>RoadMap</ListItem>
+      <ListItem onClick={() => scrollToFn("showcase")}>Showcase</ListItem>
+      <ListItem onClick={() => scrollToFn("team")}>Team</ListItem>
+      <ListItem onClick={() => scrollToFn("faq")}>FAQ</ListItem>
     </MenuList>
   );
 };

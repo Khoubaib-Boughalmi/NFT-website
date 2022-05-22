@@ -60,7 +60,7 @@ const SubTitleLight = styled.p`
 `;
 const About = () => {
   return (
-    <Section>
+    <Section id="about">
       <Container>
         <Box>
           <Card />
