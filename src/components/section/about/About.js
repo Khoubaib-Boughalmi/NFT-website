@@ -67,10 +67,10 @@ const About = () => {
         </Box>
         <Box>
           <TitleContainer>
-            <Title>Welcome To The Weirdos Club.</Title>
+            <Title>Welcome To The NFT Club.</Title>
             <SubTitle>
-              The WEIRDOS CLUB is a private collection of NFTs—unique digital
-              collectibles. The Weirdos are stored as ERC-721 tokens on the
+              The NFT CLUB is a private collection of NFTs—unique digital
+              collectibles. The NFT are stored as ERC-721 tokens on the
               Ethereum blockchain and hosted on IPFS.
             </SubTitle>
             <SubTitleLight>

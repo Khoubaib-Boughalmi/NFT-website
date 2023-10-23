@@ -80,7 +80,7 @@ const NftItems = ({ img, number, price, passRef }) => {
       <img src={img} alt="NFT" />
       <Details>
         <div>
-          <span>Weirdos</span>
+          <span>NFT</span>
           <h1>#{number}</h1>
         </div>
         <div>

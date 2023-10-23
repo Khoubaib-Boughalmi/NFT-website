@@ -71,7 +71,7 @@ const Banner = () => {
         <img src={img6} alt="" />
       </ImgBackground>
       <TextContainer>
-        <Text>Join The Weirdos Club</Text>
+        <Text>Join The NFT Club</Text>
         <ButtonContainer>
           <Button text="Join Us Now" link="#" />
         </ButtonContainer>
