@@ -1,7 +1,7 @@
 ## Project Overview
 
 - **Project Name:** NFT Website
-- **Objective:** Building a website for showcasing and trading Non-Fungible Tokens (NFTs)
+- **Objective:** Building a static website to test animation tools like GSAP and Swiper
 
 ![Description 1](https://github.com/Khoubaib-Boughalmi/NFT-website/blob/main/src/assets/1.png)
 
