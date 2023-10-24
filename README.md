@@ -3,6 +3,8 @@
 - **Project Name:** NFT Website
 - **Objective:** Building a website for showcasing and trading Non-Fungible Tokens (NFTs)
 
+![Description 1](https://github.com/Khoubaib-Boughalmi/NFT-website/blob/main/src/assets/1.png)
+
 ## Technology Stack
 
 During the development of the NFT Website, I used the following technologies and dependencies:
@@ -22,4 +24,5 @@ During the development of the NFT Website, I used the following technologies and
 
 Building the NFT Website from scratch was an enriching experience that allowed me to explore and learn various front-end technologies. Through this project, I gained hands-on experience with React, React Router, styled components, animation libraries like GSAP, and testing with Jest and React Testing Library.
 
-I'm proud of the results achieved in this project, and I'm excited to continue leveraging the knowledge and skills I acquired during its development. The NFT Website serves as a testament to my growth as a developer and showcases my ability to create visually appealing and interactive web applications.
+![Description 1](https://github.com/Khoubaib-Boughalmi/NFT-website/blob/main/src/assets/2.png)
+![Description 1](https://github.com/Khoubaib-Boughalmi/NFT-website/blob/main/src/assets/3.png)
